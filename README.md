@@ -28,7 +28,7 @@ If you find a bug or would like to contribute to the tutorials, feel free to ope
 
 ## License
 
-This repository is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT license. See the [LICENSE](https://github.com/LondheShubham153/python-for-devops-masterclass/blob/master/LICENCE.md) file for details.
 
 ## Acknowledgments
 
