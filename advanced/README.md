@@ -19,3 +19,5 @@ http://localhost:5000/
 
 **End Result:**
 The homepage displays the current CPU and memory usage of the server.
+
+**Happy Learning with Handson practices:**
