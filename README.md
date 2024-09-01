@@ -12,7 +12,7 @@ To get started with the Masterclass, you will need to have Python installed on y
 
 Once you have Python installed, you can clone this repository to your local machine by running the following command in your terminal:
 
-`git clone https://github.com/LondheShubham153/python-for-devops-masterclass.git`
+`git clone https://github.com/LondheShubham153/python-masterclass.git`
 
 ## Running the Masterclass code
 
